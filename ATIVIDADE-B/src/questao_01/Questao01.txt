@@ -1,0 +1,10 @@
+No mundo da programação, podemos observar dois contextos (ou dois tipos) diferentes de programação: Estruturada x Orientada a objetos.
+A orientação a objetos como o próprio nome sugere, é devido ao fato de se observar (abstrair) coisas (ou, objetos) do mundo real e trazê-los ao mundo
+da programação. Para isto, existem linguagens que permitem o paradigma da orientação a objetos, como por exemplo: Java, C++, Python, Ruby, PHP e etc.
+Dentro deste paradigma, podemos observar diversos pontos que caracterizam-a: Classes e Objetos, Heranças, Polimorfismo e outras. As classes, são o resultado
+de uma abstração de um objeto real, em códigos, que podemos chamar de modelagem (modelos). As classes por sua vez, possuem os membros que a tornam objetos (atributos
+e métodos). Os atributos são suas características e os métodos são seus comportamentos (ações que ela executa). Os objetos, são estes mesmos modelos, instanciados,
+ou seja, quando os atributos das classes passam a possuir valores reais.
+Em programação, quando eu apenas defino que uma variável receberá os valores de uma determinada classe (Ex. em Java de uma classe conta: Conta conta1;) podemos
+dizer que possuímos uma referência para aquela determinada classe. A partir do momento que eu a inicializo (Ex.: conta1 = new Conta();), teremos uma nova
+instância (um objeto), de Conta.
