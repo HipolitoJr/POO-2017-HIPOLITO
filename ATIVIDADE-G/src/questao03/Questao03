@@ -1,0 +1,3 @@
+Caso os metódos da classe abstrata tambem forem abstratos, ocorrerá um erro, pois a classe que herda precisa obrigatoriamente
+reescrever os metodos abstratos, ou tambem se tornar abstrata.
+Caso os metodos não forem asbtratos, ira rodar normalmente.

@@ -1,0 +1,3 @@
+Porque estaremos reservando um espaço de memória que recebe FiguraGeometrica, e, assim, toda e qualquer classe que
+herdar de FiguraGeometrica, será também uma FiguraGeometrica e logo poderá ser armazenada neste espaço de memória.
+Tendo em vista que não podemos instanciar Classes Abstratas.
